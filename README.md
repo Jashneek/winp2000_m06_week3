@@ -4,11 +4,7 @@
 This document contains key learnings about Linux, including its history, various distributions, and fundamental commands. Understanding Linux is essential for anyone looking to enhance their skills in computing and software development.
 
 ## Section 1: Linux History
-Linux originated in 1991 when Linus Torvalds, a Finnish computer science student, released the first version of the Linux kernel. Inspired by MINIX, a Unix-like operating system, Torvalds aimed to create a free and open-source alternative. 
-
-Over the years, Linux has evolved significantly, thanks to contributions from thousands of developers worldwide. The collaborative nature of open-source development has led to rapid improvements and innovations, making Linux a robust and versatile operating system.
-
-Today, Linux is significant in modern computing, powering everything from servers and supercomputers to smartphones and embedded devices. Its flexibility and security have made it a preferred choice for developers and enterprises alike.
+Linux was created in 1991 by Linus Torvalds, a Finnish computer science student. Inspired by MINIX, he aimed to develop a free and open-source operating system. Over time, contributions from developers worldwide have made Linux a robust choice for servers, supercomputers, smartphones, and more.
 
 ## Section 2: Linux Distributions
 Linux distributions (distros) are variations of the Linux operating system, packaged with different software and configurations to meet various user needs. Distributions are important because they cater to different audiences, from beginners to experienced users.
@@ -25,14 +21,14 @@ Each distribution has its own package management system, desktop environments, a
 ## Section 3: Basic Linux Commands
 Here are some common Linux commands that every user should know:
 
-- **ls**: List files and directories in the current directory.
-- **cd**: Change the current working directory.
-- **pwd**: Print the current working directory.
-- **mkdir**: Create a new directory.
-- **cp**: Copy files or directories from one location to another.
-- **mv**: Move or rename files or directories.
-- **rm**: Remove files or directories.
-- **sudo**: Execute a command with superuser (administrator) privileges.
+- `ls`: List files and directories in the current directory.
+- `cd`: Change the current working directory.
+- `pwd`: Print the current working directory.
+- `mkdir`: Create a new directory.
+- `cp`: Copy files or directories from one location to another.
+- `mv`: Move or rename files or directories.
+- `rm`: Remove files or directories.
+- `sudo`: Execute a command with superuser (administrator) privileges.
 
 These commands form the foundation of navigating and managing files in a Linux environment.
 
